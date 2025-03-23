@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Versatile AI Tooltip
 
 [![Logo Versatile AI Tooltip](https://lh3.googleusercontent.com/fn3JQRkHw9h-b3_hZhZjWVR-0uV10yeO6ATQPs5TGk44Akvru2Y70s_lD0J8KUDGAQg9vwoYEZ9UVZYuqzzXrcOy=s120)](https://chromewebstore.google.com/detail/versatile-ai-tooltip/jdldlpaafnfeggaopbmelkmgagikfekm)
@@ -94,4 +93,4 @@ A extensão Versatile AI Tooltip é licenciada sob a [MIT License](LICENSE). Iss
 =======
 # Versatile_AI_Tooltip
 O Versatile AI Tooltip é uma extensão para Chrome que utiliza inteligência artificial para executar diversas tarefas com textos, como resumos, traduções e muito mais. Personalizável e fácil de usar, permite que você otimize sua produtividade no navegador, adaptando-se às suas necessidades. Use modelos de IA gratuitos ou pagos via OpenRouter.
->>>>>>> b747e24bc2235c42297631bd85d25f9e68439c6d
+
