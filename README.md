@@ -87,10 +87,8 @@ Contribuições são bem-vindas! Se você encontrar algum problema, tiver sugest
 
 [MIT License](LICENSE)
 
----
-
 A extensão Versatile AI Tooltip é licenciada sob a [MIT License](LICENSE). Isso significa que você pode usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do software, e permitir que as pessoas o façam, desde que você inclua o aviso de direitos autorais e este aviso de licença nas cópias ou partes substanciais do software.
-=======
+
 # Versatile_AI_Tooltip
 O Versatile AI Tooltip é uma extensão para Chrome que utiliza inteligência artificial para executar diversas tarefas com textos, como resumos, traduções e muito mais. Personalizável e fácil de usar, permite que você otimize sua produtividade no navegador, adaptando-se às suas necessidades. Use modelos de IA gratuitos ou pagos via OpenRouter.
 
